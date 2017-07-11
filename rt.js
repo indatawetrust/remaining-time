@@ -15,10 +15,10 @@ const calc = delta => {
   const second = delta % 60;
 
   return {
-    day: Math.round(day),
-    hour: Math.round(hour),
-    minute: Math.round(minute),
-    second: Math.round(second),
+    day: Math.floor(day),
+    hour: Math.floor(hour),
+    minute: Math.floor(minute),
+    second: Math.floor(second),
   };
 };
 
