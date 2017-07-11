@@ -1,6 +1,6 @@
 {
   "name": "remaining-time",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "remaining time calculator",
   "main": "rt.min.js",
   "scripts": {

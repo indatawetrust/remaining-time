@@ -50,6 +50,13 @@ const remainingTime = {
 
     return calc(end - new Date());
   },
+
+  date: date => {
+    var end = new Date();
+    end.setTime(date);
+
+    return calc(end - new Date());
+  }
 };
 
 if (typeof module !== 'undefined' && typeof module.exports !== 'undefined') {
