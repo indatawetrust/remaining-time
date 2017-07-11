@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "remaining time calculator",
   "main": "rt.min.js",
-  "scripts": {},
+  "scripts": {
+    "test": "ava"
+  },
   "author": "indatawetrust",
   "license": "MIT",
   "repository": {
