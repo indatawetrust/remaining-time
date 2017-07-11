@@ -1,0 +1,24 @@
+{
+  "name": "remaining-time",
+  "version": "0.0.1",
+  "description": "remaining time calculator",
+  "main": "rt.min.js",
+  "scripts": {},
+  "author": "indatawetrust",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/indatawetrust/remaining-time.git"
+  },
+  "keywords": [
+    "remaining",
+    "time"
+  ],
+  "bugs": {
+    "url": "https://github.com/indatawetrust/remaining-time/issues"
+  },
+  "homepage": "https://github.com/indatawetrust/remaining-time#readme",
+  "devDependencies": {
+    "ava": "^0.20.0"
+  }
+}
