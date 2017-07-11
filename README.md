@@ -49,7 +49,7 @@ Object {
 rt.date(new Date().getTime()+64000)
 
 Object {
-  "day": 5,
+  "day": 0,
   "hour": 0,
   "minute": 1,
   "second": 4
