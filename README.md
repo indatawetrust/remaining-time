@@ -44,5 +44,15 @@ Object {
   "minute": 0,
   "second": 0
 }
+
+// date
+rt.date(new Date().getTime()+64000)
+
+Object {
+  "day": 5,
+  "hour": 0,
+  "minute": 1,
+  "second": 4
+}
 ```
 
